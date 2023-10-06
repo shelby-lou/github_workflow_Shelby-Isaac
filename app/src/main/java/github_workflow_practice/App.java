@@ -5,7 +5,7 @@ package github_workflow_practice;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Cito M";
     }
 
     public static void main(String[] args) {
